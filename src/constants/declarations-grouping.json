@@ -1,0 +1,34 @@
+{
+    "declaration": {
+        "sections": [
+            {
+                "title": "Declaration: 304567.180420211228",
+                "fullWidth": true,
+                "section": "declarationMainData",
+                "styleName": "declaration-main-data",
+                "elements": [
+                    {
+                        "type": "pulldown",
+                        "elementName": "procedureCode"
+                    },
+                    {
+                        "type": "text",
+                        "elementName": "requestedAdditionalProceedure"
+                    }
+                ]
+            },
+            {
+                "title": "Deferred Payment - (2/6), (Box 48)",
+                "fullWidth": true,
+                "section": "deferredPayment",
+                "styleName": "deferred-payment",
+                "elements": [
+                    {
+                        "type": "multiline",
+                        "elementName": "DeferredPayment"
+                    }
+                ]
+            }
+        ]
+    }
+}

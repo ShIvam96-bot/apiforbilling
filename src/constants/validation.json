@@ -1,0 +1,364 @@
+[
+  {
+    "elementName": "procedureCode",
+    "componentId": 900,
+    "pullDownMenu": [
+      {
+        "key": "DEFAULT",
+        "value": "Please Select"
+      },
+      {
+        "key": "0100",
+        "value": "Free circulation with onward dispatch"
+      },
+      {
+        "key": "0121",
+        "value": "Re-import after outward processing (OP) with onward dispatch"
+      },
+      {
+        "key": "0151",
+        "value": "Release to free circulation after inward processing (IP) with onward dispatch"
+      },
+      {
+        "key": "0153",
+        "value": "Release to free circulation after temporary admission (TA) with onward dispatch"
+      },
+      {
+        "key": "0154",
+        "value": "Release to free circulation after IP in another Member State with onward dispatch"
+      },
+      {
+        "key": "0171",
+        "value": "Release to free circulation from a customs warehouse (CW) with onward dispatch"
+      },
+      {
+        "key": "0178",
+        "value": "Release to free circulation from a free zone (FZ) with onward dispatch"
+      },
+      {
+        "key": "0700",
+        "value": "Release for free circulation with simultaneous entry to an excise warehouse"
+      },
+      {
+        "key": "0721",
+        "value": "Release for free circulation with simultaneous entry to an excise warehouse for goods re-imported after OP"
+      },
+      {
+        "key": "0751",
+        "value": "Release for free circulation with simultaneous entry to an excise warehouse after IP"
+      },
+      {
+        "key": "0753",
+        "value": "Release for free circulation with simultaneous entry to an excise warehouse after TA"
+      },
+      {
+        "key": "0771",
+        "value": "Release for free circulation from a CW with simultaneous entry to an excise warehouse"
+      },
+      {
+        "key": "0754",
+        "value": "Release for free circulation with simultaneous entry to an excise warehouse after IP in another Member State"
+      },
+      {
+        "key": "0778",
+        "value": "Release for free circulation from a FZ with simultaneous entry to an excise warehouse"
+      },
+      {
+        "key": "4000",
+        "value": "Release to free circulation"
+      },
+      {
+        "key": "4051",
+        "value": "Release to free circulation after IP"
+      },
+      {
+        "key": "4053",
+        "value": "Release to free circulation after TA"
+      },
+      {
+        "key": "4071",
+        "value": "Release to free circulation from a CW"
+      },
+      {
+        "key": "4054",
+        "value": "Release to free circulation after IP in another Member State"
+      },
+      {
+        "key": "4078",
+        "value": "Release to free circulation from a FZ"
+      },
+      {
+        "key": "4200",
+        "value": "Free circulation with onward supply"
+      },
+      {
+        "key": "4221",
+        "value": "Re-import after OP with onward supply"
+      },
+      {
+        "key": "4251",
+        "value": "Release to free circulation after IP with onward supply"
+      },
+      {
+        "key": "4253",
+        "value": "Release to free circulation after TA with onward supply"
+      },
+      {
+        "key": "4254",
+        "value": "Release to free circulation after IP in another Member State with onward supply"
+      },
+      {
+        "key": "4271",
+        "value": "Release to free circulation from a CW with onward supply"
+      },
+      {
+        "key": "4278",
+        "value": "Release to free circulation from a FZ with onward supply"
+      },
+      {
+        "key": "4400",
+        "value": "End-use relief"
+      },
+      {
+        "key": "4421",
+        "value": "End-use relief after OP"
+      },
+      {
+        "key": "4422",
+        "value": "End-use relief after OP, not covered under 4421"
+      },
+      {
+        "key": "4451",
+        "value": "End-use relief after IP"
+      },
+      {
+        "key": "4471",
+        "value": "End-use relief on goods released from a CW"
+      },
+      {
+        "key": "4453",
+        "value": "End-use relief after TA"
+      },
+      {
+        "key": "4454",
+        "value": "End-use relief after IP in another Member State"
+      },
+      {
+        "key": "4478",
+        "value": "End-use relief on goods released from a FZ"
+      },
+      {
+        "key": "5100",
+        "value": "Entry to IP"
+      },
+      {
+        "key": "5111",
+        "value": "Import of replacement goods to IP following the prior export of equivalent goods."
+      },
+      {
+        "key": "5121",
+        "value": "Entry to IP after OP"
+      },
+      {
+        "key": "5151",
+        "value": "Transfer of goods between IP authorisation holders"
+      },
+      {
+        "key": "5153",
+        "value": "Entry to IP after TA"
+      },
+      {
+        "key": "5154",
+        "value": "Transfer of goods between IP authorisation holders in different Member States"
+      },
+      {
+        "key": "5171",
+        "value": "Entry to IP on release from a CW"
+      },
+      {
+        "key": "5178",
+        "value": "Entry to IP on release from a FZ"
+      },
+      {
+        "key": "5300",
+        "value": "Entry to TA"
+      },
+      {
+        "key": "5351",
+        "value": "Entry to TA after IP"
+      },
+      {
+        "key": "5353",
+        "value": "Transfer of goods between TA authorisation holders"
+      },
+      {
+        "key": "5354",
+        "value": "Entry to TA after IP in another Member State"
+      },
+      {
+        "key": "5371",
+        "value": "Entry to TA on release from a CW"
+      },
+      {
+        "key": "5378",
+        "value": "Entry to TA on release from a FZ"
+      },
+      {
+        "key": "6110",
+        "value": "Release to RGR for goods previously permanently exported"
+      },
+      {
+        "key": "6111",
+        "value": "Release to RGR for IP equivalent goods previously permanently exported"
+      },
+      {
+        "key": "6123",
+        "value": "Release to RGR"
+      },
+      {
+        "key": "6131",
+        "value": "Re-import of previously exported IP goods"
+      },
+      {
+        "key": "6121",
+        "value": "Re-import after OP"
+      },
+      {
+        "key": "6122",
+        "value": "Re-import after OP for goods not covered by 61 21 (for example, OP textiles)"
+      },
+      {
+        "key": "7100",
+        "value": "Entry to a CW"
+      },
+      {
+        "key": "7110",
+        "value": "Entry to a CW for goods previously permanently exported"
+      },
+      {
+        "key": "7123",
+        "value": "Entry to CW after RGR"
+      },
+      {
+        "key": "7121",
+        "value": "Entry to CW after OP"
+      },
+      {
+        "key": "7151",
+        "value": "Entry to CW after IP"
+      },
+      {
+        "key": "7153",
+        "value": "Entry to CW after TA"
+      },
+      {
+        "key": "7171",
+        "value": "Transfer between different customs warehouses"
+      },
+      {
+        "key": "7178",
+        "value": "Entry to CW on release from a FZ"
+      },
+      {
+        "key": "7154",
+        "value": "Entry to CW after IP in another Member State"
+      }
+    ],
+    "boxCode": "37",
+    "parenthesisCode": "(1/10)",
+    "validation": false,
+    "borderColor": "",
+    "validationLogic": {},
+    "textDescription": "Procedure Code:",
+    "isMandatory": false,
+    "version": 0,
+    "furtherInformartionLink": "",
+    "type": "pullDownInput"
+  },
+  {
+    "elementName": "requestedAdditionalProceedure",
+    "componentId": 111,
+    "boxCode": "37",
+    "parenthesisCode": "1/10",
+    "validation": false,
+    "borderColor": "",
+    "validationLogic": {},
+    "textDescription": "Additional Proceedure: ",
+    "isMandatory": true,
+    "version": 0,
+    "furtherInformartionLink": "",
+    "type": "multiLine",
+    "repeats": 99
+  },
+  {
+    "elementName": "DeferredPayment",
+    "label": "",
+    "type": "multiLine",
+    "limit": 2,
+    "components": [
+      {
+        "type": "text",
+        "elementName": "deferredPaymentId"
+      },
+      {
+        "type": "text",
+        "elementName": "deferredPaymentCategory"
+      },
+      {
+        "type": "pulldown",
+        "elementName": "deferredPaymentType"
+      }
+    ]
+  },
+  {
+    "elementName": "deferredPaymentId",
+    "componentId": 61,
+    "boxCode": "48",
+    "parenthesisCode": "(2/6)",
+    "validation": false,
+    "borderColor": "",
+    "validationLogic": {},
+    "textDescription": "Id:",
+    "isMandatory": false,
+    "version": 0,
+    "furtherInformartionLink": ""
+  },
+  {
+    "elementName": "deferredPaymentCategory",
+    "componentId": 62,
+    "validation": false,
+    "borderColor": "",
+    "validationLogic": {},
+    "textDescription": "Category:",
+    "isMandatory": false,
+    "version": 0,
+    "furtherInformartionLink": ""
+  },
+  {
+    "elementName": "deferredPaymentType",
+    "componentId": 63,
+    "pullDownMenu": [
+      {
+        "key": "DEFAULT",
+        "value": "Please Select"
+      },
+      {
+        "key": "1DAN",
+        "value": "The deferment account to be used for all charges, unless 2DAN is also declared."
+      },
+      {
+        "key": "2DAN",
+        "value": "Only import VAT will be charged to Deferment account number"
+      }
+    ],
+    "boxCode": "48",
+    "parenthesisCode": "(2/6)",
+    "validation": false,
+    "borderColor": "",
+    "validationLogic": {},
+    "textDescription": "Deferred Payment Type:",
+    "isMandatory": false,
+    "version": 0,
+    "furtherInformartionLink": ""
+  }
+]
